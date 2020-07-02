@@ -1,0 +1,101 @@
+﻿Que.What is cloud computing?
+ans:Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active 
+       management by the user. The term is generally used to describe data centers available to many users over the Internet.
+       for e.g,When you make any status update on your Facebook account, you make use of cloud computing. When you check your bank account balance on 
+       the phone,again you make use of cloud computing. We can say that cloud computing services are becoming the new common.
+
+Que.what are advantages and disadvantages of cloud.
+ans: Advantages of cloud computing.
+     1)Less Costs
+       	The services are free from capital expenditure. There are no huge costs of hardware in cloud computing. You just have to pay as you operate it
+	and enjoy the model based on your subscription plan.
+	   
+     2)Easy implementation
+	  Cloud hosting allows business to retain the same applications and business processes without having to deal with the backend technicalities. 
+	  Readily manageable by the Internet, a cloud infrastructure can be accessed by enterprises easily and quickly.
+	   
+     3)Accessibility
+	   Access your data anywhere, anytime. An Internet cloud infrastructure maximizes enterprise productivity and efficiency by ensuring your 
+	   application is always accessible. This allows for easy collaboration and sharing among users in multiple locations.
+	   
+     4)No hardware required
+	   Since everything will be hosted in the cloud, a physical storage center is no longer needed. However, a backup could be worth looking into
+	   in the event of a disaster that could leave your company's productivity stagnant.
+ 
+     5)Flexibility for growth
+	   The cloud is easily scalable so companies can add or subtract resources based on their needs. As companies grow, their system will grow with them.
+	   
+     6)Efficient recovery
+	   Cloud computing delivers faster and more accurate retrievals of applications and data. With less downtime, it is the most efficient recovery 
+	   plan.
+
+     Disadvantages of cloud computing.
+     1)Internet Connectivity
+               	Cloud Computing needs internet connectivity as if there will be no internet connection you won’t be able to access the cloud. Moreover, there 
+                	is no other way to gather the data from the cloud.
+	   
+     2)Lower Bandwidth
+              	 Lower bandwidth reduces the benefits of the clouds such that it cannot use properly. A satellite connection can lead to quality disruption,	
+	due to higher latency or higher bandwidth.  
+	   
+     3)Affect of Speed
+              	 If a client is using an internet which use by multiple users to download files such as music, documents, and many more. This will reduce the 
+             	  speed to use the Cloud.  
+	   
+    4)Security Issues
+       	As Cloud Computing is very secure but still it requires an IT consulting firm’s assistance and advice. Neglecting this can lead to the fact 
+	 that the business will become vulnerable to the hackers and the threats.  
+	   
+   5) Variation is Cost
+       	Cloud Computing is an economical option, but if you will consider the installation of the software it can be costly. Installation can lead to
+	  some costly feature which can be non-beneficial in the future.  
+	   
+Que.What is EC2?
+ans:Amazon Elastic Compute Cloud (EC2) is a part of Amazon.com's cloud-computing platform, Amazon Web Services (AWS), that allows users to rent 
+    virtual computers on which to run their own computer applications. EC2 encourages scalable deployment of applications by providing a web service 
+    through which a user can boot an Amazon Machine Image (AMI) to configure a virtual machine, which Amazon calls an "instance", containing any 
+    software desired. A user can create, launch, and terminate server-instances as needed, paying by the second for active servers – hence the
+    term "elastic". EC2 provides users with control over the geographical location of instances that allows for latency optimization and high levels 
+    of redundancy.
+	
+Que.Types of cloud computing.
+ans:There are four types of cloud computing.
+    1. Public cloud
+    2. Private cloud
+    3. Hybrid cloud
+    4. Community cloud
+ 
+1.Public cloud:
+        	 Public cloud are managed by third parties which provide cloud services over the internet to public, these services are available as pay-as-you-go 
+	billing mode.They offer solutions for minimizing IT infrastructure costs and act as a good option for handling peak loads on the local infrastructure. 
+	They are a goto option for small enterprises, which are able to start their businesses without large upfront investments by completely relying on public 
+         	infrastructure for their IT needs.A fundamental characteristic of public clouds is multitenancy. A public cloud is meant to serve multiple users, not a single
+                 customer.  A user requires a virtual computing environment that is separated, and most likely isolated, from other users.
+
+
+2.Private cloud:
+        	Private clouds are distributed systems that work on a private infrastructure and providing the users with dynamic provisioning of computing 
+        	resources.Instead of a pay-as-you-go model as in public clouds, there could be other schemes in that take into account the usage of the cloud	
+  	and proportionally billing the different departments or sections of an enterprise.
+
+        The advantages of using a private cloud are:
+
+        Customer information protection: In private cloud security concerns are less since customer data and other sensitive information does not flow
+        out of a private infrastructure.
+
+        Infrastructure ensuring SLAs: Private cloud provides specific operations such as appropriate clustering, data replication, system monitoring 
+        and maintenance, and disaster recovery, and other uptime services.
+
+       Compliance with standard procedures and operations: Specific procedures have to be put in place when deploying and executing applications 
+       according to third-party compliance standards.This is not possible in case of public cloud.
+
+ 
+3.Hybrid cloud:
+      	 Hybrid cloud is a heterogeneous distributed system resulted by combining facilities of public cloud and private cloud. For this reason they are
+	  also called heterogeneous clouds.A major drawback of private deployments is the inability to scale on demand and to efficiently address peak 
+	   oads. Here public clouds are needed. Hence, a hybrid cloud takes advantages of both public and private cloud.	
+	   
+4.Community cloud:
+       	Community clouds are distributed systems created by integrating the services of different clouds to address the specific needs of an industry,
+	  a community, or a business sector.In community cloud, the infrastructure is shared between organization which have shared concerns or tasks.
+	  The cloud may be managed by an organization or a third party.	   
